@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/math_game/static/css/main.f5f76b9c.css",
+    "main.js": "/math_game/static/js/main.7b3c90f0.js",
+    "index.html": "/math_game/index.html",
+    "main.f5f76b9c.css.map": "/math_game/static/css/main.f5f76b9c.css.map",
+    "main.7b3c90f0.js.map": "/math_game/static/js/main.7b3c90f0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f5f76b9c.css",
+    "static/js/main.7b3c90f0.js"
+  ]
+}
